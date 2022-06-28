@@ -67,7 +67,7 @@
           <LocalizedString ElementType="ClaimType" ElementId="verificationUri" StringId="DisplayName">Or, open this verification page on your other device</LocalizedString>
           <LocalizedString ElementType="UxElement" StringId="button_continue">Continue</LocalizedString>
           <LocalizedString ElementType="UxElement" StringId="heading">Sign in</LocalizedString>
-          <LocalizedString ElementType="UxElement" StringId="initial_intro">Use one of the below options to sign in to Bank of Zamunda. Then click Verify.</LocalizedString>
+          <LocalizedString ElementType="UxElement" StringId="initial_intro">Use one of the below options to sign in to Bank of Zamunda. Then click Continue.</LocalizedString>
         </LocalizedStrings>
       </LocalizedResources>
     </Localization>
