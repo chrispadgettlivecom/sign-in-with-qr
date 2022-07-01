@@ -8,6 +8,8 @@ Devices at airports and networks at hotels or other public spaces are convenient
 
 My project protects sign-ups and sign-ins for applications (e.g. a banking experience) that are accessed on an untrusted device (e.g. the airport device) or on an untrusted network (e.g. the hotel Wi-Fi) using a QR code-initiated authentication across devices and networks.
 
+For the deployed project, go to [https://bit.ly/3NrtiDv](https://bit.ly/3NrtiDv).
+
 ## How we built it
 
 [This diagram](https://github.com/chrispadgettlivecom/sign-in-with-qr/blob/main/media/authentication-flow.jpg) describes the authentication flow.
